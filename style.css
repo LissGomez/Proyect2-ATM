@@ -1,0 +1,15 @@
+body { 
+    background-color: rgb(209, 235, 226);
+    background-image: url("https://images.pexels.com/photos/14843659/pexels-photo-14843659.jpeg?auto=compress&cs=tinysrgb&w=1500");
+
+}
+
+.scream {
+    height: 125px;
+    width: 100%;
+    background-color: beige;
+    text-align: start;
+}
+
+
+
